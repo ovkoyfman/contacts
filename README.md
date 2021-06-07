@@ -8,5 +8,6 @@ This repo is a code-along with the first project in the [React Nanodegree progra
 * clone the Project - `git clone https://github.com/udacity/reactnd-contacts-complete.git`
 * install the dependencies - `npm install`
 
+## License
 
-MIT
+MITs
